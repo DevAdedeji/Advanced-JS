@@ -1,4 +1,4 @@
-// Memoization is a programming concept
+// Memoization is a programming concept and an optimization techniques that stores the result of function calls in a cache and then returns them when the same input is used
 
 const initApp = async () => {
     // const memoizedMultiplyBy10 = memoize(multiplyBy10)
